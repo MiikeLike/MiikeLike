@@ -10,7 +10,6 @@ class Mikel  {
                  - Control de versiones (Git) con SourceTree en Gitlab/Github.
                  - Consumo de servicios RESTfull (Alamofire).
                  - Gestión de dependencias (Cocoapods/SPM).
-                 - Arquitecturas (MVP/MVC/MVVM).
                  - Test unitarios.
                  - Patrones de diseño.
                  - Persistencia de datos (SQLite/UserDefaults).
