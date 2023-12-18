@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+```
 class Mikel  {
   let pronouns = "he" 
   let code: [Swift, SwiftUI, HTML, CSS]
@@ -19,7 +19,7 @@ class Mikel  {
                  - Distribución de Apps
                       }
 }
-
+```
 
 **MiikeLike/MiikeLike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
