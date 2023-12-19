@@ -35,35 +35,5 @@ class Mikel  {
 <a href="www.linkedin.com/in/mikel-valle-pajuelo-31b088236><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:mikel@vallepajuelo.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGx6RGJjuSyU_FS5KnUV3GxdXISbubfcrfRxp6IAGmmX2D76cvh6HSnkTPYH4VhDufezs&usqp=CAU" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/MiikeLike" target="blank"><img align="center" src="[https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white](https://cdn-icons-png.flaticon.com/512/25/25231.png)" /></a>
 </p>
   
-<Br>
-<hr>
-<Br>
-<h1 align="center">Herramientas! 🤸‍♂</h1>
-<Br>
-  
 
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Tools I use! 🛠️</h1>
-<Br>
- 
-
-  
-
-<Br>
-<hr>
-<Br>
-<h1>Algunos trabajos! 🎨</h1>
-<Br>
-  
-[![ReadMe Card]()
-
-<Br>
-<hr>
-<Br>
-<h1>Certificaciones! 🏆</h1>
-<Br>
   
