@@ -42,7 +42,6 @@ Aquí hay algunos de los lenguajes de programación con los que me siento cómod
 - 🖥 **HTML/CSS**
 - 🍏 **Swift**
 - 📱 **SwiftUI**
-- 🔵 **Objective-C**
   
 # 🛠 Herramientas
 
@@ -54,7 +53,6 @@ Estas son algunas de las herramientas que suelo utilizar en mis proyectos como d
 - 🛠 **CocoaPods** 
 - 📲 **Simuladores de Dispositivos iOS**
 - 🧰 **Interface Builder**
-- 📊 **Instruments para Profiling**
 
   
 # 🚀 Proyecto Actual
