@@ -27,14 +27,46 @@ class Mikel  {
 }
 ```
   
-# Contacto
+# 📧 Contacto
 
 ¡No dudes en contactarme!
 
 - **Correo Electrónico:** [mikel@vallepajuelo.com](mailto:mikel@vallepajuelo.com)
 - **LinkedIn:** [Mi Perfil en LinkedIn](www.linkedin.com/in/mikel-valle-pajuelo-31b088236)
-- **GitHub:** [Mi Perfil en GitHub]([https://github.com/tuusuario](https://github.com/MiikeLike)https://github.com/MiikeLike)
+
+
+# 💻 Lenguajes
+
+Aquí hay algunos de los lenguajes de programación con los que me siento cómodo trabajando:
+
+- 🖥 **HTML/CSS**
+- 🍏 **Swift**
+- 📱 **SwiftUI**
+- 🔵 **Objective-C**
+  
+# 🛠 Herramientas
+
+Estas son algunas de las herramientas que suelo utilizar en mis proyectos como desarrollador iOS:
+
+- 💻 **Entorno de Desarrollo:** Xcode
+- 📱 **Swift Package Manager**
+- 🧪 **Pruebas Unitarias:** XCTest
+- 🛠 **CocoaPods** 
+- 📲 **Simuladores de Dispositivos iOS**
+- 🧰 **Interface Builder**
+- 📊 **Instruments para Profiling**
 
   
+# 🚀 Proyecto Actual
 
-  
+Estoy emocionado de presentar mi proyecto actual, una aplicación sencilla de notas desarrollada en SwiftUI. Esta aplicación sigue la arquitectura MVVM (Model-View-ViewModel) para una organización clara del código. Además, hace uso de CoreData para la gestión eficiente de datos.
+
+**Características del Proyecto:**
+- 📝 Creación, edición y eliminación de notas de manera intuitiva.
+- 🗃️ Almacenamiento de datos utilizando CoreData.
+- 🧪 Implementación de pruebas de unidad para garantizar la calidad del código.
+- 🔄 Pruebas de integración para verificar la interacción adecuada de los componentes.
+
+Si estás interesado, puedes explorar el código fuente y contribuir en mi perfil de GitHub.
+
+[🔗 TestingApp]([https://github.com/tuusuario/nombre-del-proyecto](https://github.com/MiikeLike/TestingApp)https://github.com/MiikeLike/TestingApp)
