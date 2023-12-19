@@ -69,4 +69,4 @@ Estoy emocionado de presentar mi proyecto actual, una aplicación sencilla de no
 
 Si estás interesado, puedes explorar el código fuente y contribuir en mi perfil de GitHub.
 
-[🔗 TestingApp]([https://github.com/tuusuario/nombre-del-proyecto](https://github.com/MiikeLike/TestingApp)https://github.com/MiikeLike/TestingApp)
+[🔗 TestingApp] (https://github.com/MiikeLike/TestingApp).
