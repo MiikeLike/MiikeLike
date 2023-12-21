@@ -31,7 +31,6 @@ class Mikel  {
 
 ¡No dudes en contactarme!
 
-- **Correo Electrónico:** [mikel@vallepajuelo.com](mailto:mikel@vallepajuelo.com)
 - **LinkedIn:** [Mi Perfil en LinkedIn](www.linkedin.com/in/mikel-valle-pajuelo-31b088236)
 
 
