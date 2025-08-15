@@ -2,68 +2,70 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/MiikeLike">MiikeLike<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>Acerca de mí! 😎</h1>
+<h1 align="center">Hola, soy <a href="https://github.com/MiikeLike">Mikel Valle</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-```
-class Mikel  {
-  let pronouns = "he" 
-  let code: [Swift, SwiftUI, HTML, CSS]
-  let tools: [Xcode, VSCode]    
-  let architecture: ["MVC", "MVP", "MVVM"]
-  func knowledge {
-                 - Desarrolladora iOS con Swift 5+.
-                 - Control de versiones (Git) con SourceTree en Gitlab/Github.
-                 - Consumo de servicios RESTfull (Alamofire).
-                 - Gestión de dependencias (Cocoapods/SPM).
-                 - Test unitarios.
-                 - Patrones de diseño.
-                 - Persistencia de datos (SQLite/UserDefaults).
-                 - Autolayout.
-                 - Extensiones de clases.
-                 - Distribución de Apps
-                      }
+## 🚀 Sobre mí
+
+```swift
+class Mikel {
+    let pronouns = "he"
+    let code = ["Swift", "SwiftUI", "HTML", "CSS"]
+    let tools = ["Xcode", "VSCode", "Fork", "Jira", "Postman"]
+    let architectures = ["MVC", "MVVM", "VIPER", "Clean Architecture"]
+    
+    func aboutMe() {
+        """
+        iOS Developer apasionado por crear apps limpias, escalables y accesibles.
+        Experiencia en proyectos para grandes clientes como Stellantis, trabajando con 
+        validaciones, seguridad, PKI/vPKI y accesibilidad (VoiceOver, Dynamic Type).
+        
+        Siempre en constante aprendizaje: actualmente mejorando mi inglés y explorando 
+        las últimas novedades de Apple, como Liquid Glass de la última WWDC.
+        """
+    }
 }
 ```
-  
-# 📧 Contacto
+🏆 Experiencia Destacada
+	•	iOS Developer en Coremain (2024 – Presente)
+Refactorización, optimización y testing en proyectos clave para Stellantis.
+Migraciones de Objective-C a Swift/SwiftUI y desarrollo de nuevas funcionalidades.
+	•	Freelance Developer
+Desarrollo de proyectos iOS y web, desde calculadoras de desarrollo para ciclismo
+hasta aplicaciones con arquitectura VIPER, MVVM y Clean Architecture.
 
-¡No dudes en contactarme!
+⸻
 
-- **LinkedIn:** [Mi Perfil en LinkedIn](www.linkedin.com/in/mikel-valle-pajuelo-31b088236)
+🛠 Stack Tecnológico
 
+Lenguajes: Swift, SwiftUI, HTML, CSS
+Herramientas: Xcode, Swift Package Manager, CocoaPods, Fork, Postman, Jira, GitHub, GitLab
+Testing: XCTest, pruebas unitarias, integración y validación con CRL
+Arquitecturas: MVC, MVVM, VIPER, Clean Architecture
+Otros: Core Data, Alamofire, UserDefaults, SQLite, AutoLayout, accesibilidad iOS
 
-# 💻 Lenguajes
+⸻
 
-Aquí hay algunos de los lenguajes de programación con los que me siento cómodo trabajando:
+📂 Proyectos Personales
+	•	TestingApp – App de notas en SwiftUI con CoreData y MVVM, pruebas unitarias e integración.
+	•	Architecture VIPER – Ejemplo de arquitectura VIPER con separación clara de responsabilidades.
+	•	technicalTestMVVM – Proyecto técnico aplicando MVVM y buenas prácticas.
+	•	MoneyMind – App de control de gastos minimalista con futura integración bancaria.
+	•	CeaCertificateManager – Gestión avanzada de certificados PKI/vPKI en iOS.
 
-- 🖥 **HTML/CSS**
-- 🍏 **Swift**
-- 📱 **SwiftUI**
-  
-# 🛠 Herramientas
+⸻
 
-Estas son algunas de las herramientas que suelo utilizar en mis proyectos como desarrollador iOS:
+📈 Actualmente
+	•	Mejorando mi inglés y habilidades de comunicación.
+	•	Estudiando las últimas APIs y frameworks de Apple, como Liquid Glass.
+	•	Entrenando 7 días por semana, alternando MTB y gimnasio 💪🚴‍♂️.
 
-- 💻 **Entorno de Desarrollo:** Xcode
-- 📱 **Swift Package Manager**
-- 🧪 **Pruebas Unitarias:** XCTest
-- 🛠 **CocoaPods** 
-- 📲 **Simuladores de Dispositivos iOS**
-- 🧰 **Interface Builder**
+⸻
 
-  
-# 🚀 Proyecto Actual
+📧 Contacto
+	•	LinkedIn: Perfil Profesional
+	•	Email: mikelvallepajuelo@gmail.com
+	•	GitHub: @MiikeLike
 
-Estoy emocionado de presentar mi proyecto actual, una aplicación sencilla de notas desarrollada en SwiftUI. Esta aplicación sigue la arquitectura MVVM (Model-View-ViewModel) para una organización clara del código. Además, hace uso de CoreData para la gestión eficiente de datos.
+⸻
 
-**Características del Proyecto:**
-- 📝 Creación, edición y eliminación de notas de manera intuitiva.
-- 🗃️ Almacenamiento de datos utilizando CoreData.
-- 🧪 Implementación de pruebas de unidad para garantizar la calidad del código.
-- 🔄 Pruebas de integración para verificar la interacción adecuada de los componentes.
-
-Si estás interesado, puedes explorar el código fuente y contribuir en mi perfil de GitHub.
-
-[🔗 TestingApp] (https://github.com/MiikeLike/TestingApp).
+“La calidad del código no es negociable. Si algo puede hacerse mejor, se hace.”
